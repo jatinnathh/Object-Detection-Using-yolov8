@@ -4,7 +4,7 @@ import cvzone
 import math
 import time
 from sort import *
-
+import numpy as np
  
 cap = cv2.VideoCapture(r"C:\Users\jatin\Desktop\CAL AI&ML\obj detection\webcam\Videos\cars.mp4")  # For video detection
 # cap = cv2.VideoCapture(0)  # For Webcam detection
