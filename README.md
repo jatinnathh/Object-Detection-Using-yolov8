@@ -2,7 +2,7 @@
 
 Counting number of people going up and down an elevator
 
-Counting the number of people going up and down on an escalator
+Counting the number of Cars passing through a certain region 
 
 Detecting the type of Poker hand shown (5-card hand)
 
